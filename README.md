@@ -20,4 +20,4 @@ Bel Otomatis untuk sekolah versi Android. Berikut dibawah ini fitur utama dalam 
 #### Form Tambah/Edit/Hapus
 <img width="400" height="880" alt="Screenshot_2026-10-15-00-26-15" src="https://github.com/user-attachments/assets/63eed90b-c18d-48cc-8405-53827afd7e5a" />
 
-Hubungi email: admin@sanik.id, untuk melalukan uji coba aplikas.
+Hubungi email: admin@sanik.id, untuk melalukan uji coba aplikasi.
