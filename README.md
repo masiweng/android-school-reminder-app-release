@@ -11,8 +11,10 @@ Bel Otomatis untuk sekolah versi Android. Berikut dibawah ini fitur utama dalam 
 - Menu Sinkronisasi Jadwal jika perubahan, tidak perlu edit satu persatu diaplikas, bisa juga langsung editnya di Spreadsheet. Dan fitur ini cocok untuk perubahan yang mendadak.
 - Menu Backup dan Restor pengaturan (Alamm, Audio dan lain sebagainnya)
 - Menu Pengaturan untuk mengaturan Url Google App Script yang di sematkan di Google Spreadsheet. Kenapa menggunakan URL GAS, karena untuk memudahkan menarikan data yang di Input di Spreadsheet dan otomatis tersimpan dilokal.
+- Menu Tema dan Warna: Untuk menyesuaikan tema dan warna aplikasi.
 - Menu Cek Pembaruan berguna agar tidak perlu download manual. Cukup klik menu ini dan akan otomatis mendownload aplikasi terbaru.
-<img width="400" height="880" alt="Screenshot_2026-10-15-00-25-48" src="https://github.com/user-attachments/assets/15a719f5-ce1e-4daa-85d6-d02dface8a47" />
+<img width="400" height="880" alt="Screenshot_2026-10-16-08-23-22" src="https://github.com/user-attachments/assets/892cb8fc-d2a9-4dea-a2ca-b0942205d53a" />
+
 
 #### Kelola Audio Alarm
 <img width="400" height="880" alt="Screenshot_2026-10-15-00-25-56" src="https://github.com/user-attachments/assets/bc25daa8-3578-4896-a21c-dc5abd372118" />
@@ -21,4 +23,8 @@ Bel Otomatis untuk sekolah versi Android. Berikut dibawah ini fitur utama dalam 
 #### Form Tambah/Edit/Hapus
 <img width="400" height="880" alt="Screenshot_2026-10-15-00-26-15" src="https://github.com/user-attachments/assets/63eed90b-c18d-48cc-8405-53827afd7e5a" />
 
-Hubungi email: admin@sanik.id, untuk melalukan uji coba aplikasi.
+#### Tema dan Warna
+<img width="400" height="880" alt="Screenshot_2026-10-16-08-23-33" src="https://github.com/user-attachments/assets/ecdfa976-d567-4cb1-81ad-7294e37c7f0e" />
+
+
+#### Hubungi email: admin@sanik.id, untuk melalukan uji coba aplikasi.
